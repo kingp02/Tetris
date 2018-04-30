@@ -133,17 +133,6 @@ function ShapeZR()
 	this.flag = 'ZR';
 }
 
-function Shape+(){
-	var state1 = [  [1, 0],
-					[1, 1],
-					[1, 1] ];
-
-
-	this.states = [ state1, state2, state3, state4 ];
-	this.x = 4;
-	this.y = -3;
-	this.flag = '+';
-}
 /**
 Is shape can move
 @param shape: tetris shape
