@@ -7,10 +7,10 @@ var sideWidth = 120;
 
 
 //scene column count
-var columnCount = 10;
+var columnCount = 15;
 
 //scene row count;
-var rowCount = 20;
+var rowCount = 25;
 
 //previewCount
 var previewCount = 6;
